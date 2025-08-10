@@ -1,0 +1,5 @@
+/Users/jaden/Documents/UMNG/MOBILE_GAMES_DEVELOPMENT/ProyectoUnity_Electiva_2025-2/.utmp/RelWithDebInfo/4g2z2r5p/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/jaden/Documents/UMNG/MOBILE_GAMES_DEVELOPMENT/ProyectoUnity_Electiva_2025-2/.utmp/RelWithDebInfo/4g2z2r5p/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/jaden/Documents/UMNG/MOBILE_GAMES_DEVELOPMENT/ProyectoUnity_Electiva_2025-2/.utmp/RelWithDebInfo/4g2z2r5p/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/jaden/Documents/UMNG/MOBILE_GAMES_DEVELOPMENT/ProyectoUnity_Electiva_2025-2/.utmp/RelWithDebInfo/4g2z2r5p/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/jaden/Documents/UMNG/MOBILE_GAMES_DEVELOPMENT/ProyectoUnity_Electiva_2025-2/.utmp/RelWithDebInfo/4g2z2r5p/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
